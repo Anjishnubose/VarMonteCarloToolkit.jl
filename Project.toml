@@ -1,0 +1,13 @@
+name = "VarMonteCarloToolkit"
+uuid = "48bbed82-3d96-4d5e-a4c1-7fc6ab18edea"
+authors = ["Anjishnu Bose", "Sreekar Voleti"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
