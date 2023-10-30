@@ -3,6 +3,11 @@ uuid = "48bbed82-3d96-4d5e-a4c1-7fc6ab18edea"
 authors = ["Anjishnu Bose", "Sreekar Voleti"]
 version = "1.0.0-DEV"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+TightBindingToolkit = "2233325a-6eb3-486f-aff0-670e0939fa7e"
+
 [compat]
 julia = "1"
 
